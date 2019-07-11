@@ -1,0 +1,1 @@
+Vendor blobs from 6.3.1.2 for Amazon Fire 7 2019 aka mustang
