@@ -16,14 +16,14 @@ VENDOR_DIR= vendor/amazon/mustang
 
 PRODUCT_COPY_FILES += \
    vendor/amazon/mustang/proprietory/lib/libhal_effects.so:system/lib/libhal_effects.so \
-   vendor/amazon/mustang/proprietory/vendor/lib/hw/audio.primary.mt8163.so:system/vendor/lib/hw/audio.primary.mt8163.so \
-   vendor/amazon/mustang/proprietory/vendor/lib/hw/audio.usb.mt8163.so:system/vendor/lib/hw/audio.usb.mt8163.so \
-   vendor/amazon/mustang/proprietory/vendor/lib/hw/camera.mt8163.so:system/vendor/lib/hw/camera.mt8163.so \
-   vendor/amazon/mustang/proprietory/vendor/lib/hw/gatekeeper.mt8163.so:system/vendor/lib/hw/gatekeeper.mt8163.so \
-   vendor/amazon/mustang/proprietory/vendor/lib/hw/gralloc.mt8163.so:system//vendor/lib/hw/gralloc.mt8163.so \
-   vendor/amazon/mustang/proprietory/vendor/lib/hw/hwcomposer.mt8163.so:system/vendor/lib/hw/hwcomposer.mt8163.so \
-   vendor/amazon/mustang/proprietory/vendor/lib/hw/memtrack.mt8163.so:system/vendor/lib/hw/memtrack.mt8163.so \
-   vendor/amazon/mustang/proprietory/vendor/lib/hw/sensors.mt8163.so:system/vendor/lib/hw/sensors.mt8163.so \
+   vendor/amazon/mustang/proprietary/vendor/lib/hw/audio.primary.mt8163.so:system/vendor/lib/hw/audio.primary.mt8163.so \
+   vendor/amazon/mustang/proprietary/vendor/lib/hw/audio.usb.mt8163.so:system/vendor/lib/hw/audio.usb.mt8163.so \
+   vendor/amazon/mustang/proprietary/vendor/lib/hw/camera.mt8163.so:system/vendor/lib/hw/camera.mt8163.so \
+   vendor/amazon/mustang/proprietary/vendor/lib/hw/gatekeeper.mt8163.so:system/vendor/lib/hw/gatekeeper.mt8163.so \
+   vendor/amazon/mustang/proprietary/vendor/lib/hw/gralloc.mt8163.so:system//vendor/lib/hw/gralloc.mt8163.so \
+   vendor/amazon/mustang/proprietary/vendor/lib/hw/hwcomposer.mt8163.so:system/vendor/lib/hw/hwcomposer.mt8163.so \
+   vendor/amazon/mustang/proprietary/vendor/lib/hw/memtrack.mt8163.so:system/vendor/lib/hw/memtrack.mt8163.so \
+   vendor/amazon/mustang/proprietary/vendor/lib/hw/sensors.mt8163.so:system/vendor/lib/hw/sensors.mt8163.so \
     vendor/amazon/mustang/proprietory/vendor/lib/drm/libdrmmtkplugin.so:system/vendor/lib/drm/libdrmmtkplugin.so \
     vendor/amazon/mustang/proprietory/vendor/lib/drm/libdrmctaplugin.so:system/vendor/lib/drm/libdrmctaplugin.so \
     vendor/amazon/mustang/proprietary/usr/keylayout/mtk-kpd.kl:system/usr/keylayout/mtk-kpd.kl \
