@@ -20,12 +20,12 @@ PRODUCT_COPY_FILES += \
    vendor/amazon/mustang/proprietary/vendor/lib/hw/audio.usb.mt8163.so:system/vendor/lib/hw/audio.usb.mt8163.so \
    vendor/amazon/mustang/proprietary/vendor/lib/hw/camera.mt8163.so:system/vendor/lib/hw/camera.mt8163.so \
    vendor/amazon/mustang/proprietary/vendor/lib/hw/gatekeeper.mt8163.so:system/vendor/lib/hw/gatekeeper.mt8163.so \
-   vendor/amazon/mustang/proprietary/vendor/lib/hw/gralloc.mt8163.so:system//vendor/lib/hw/gralloc.mt8163.so \
+   vendor/amazon/mustang/proprietary/vendor/lib/hw/gralloc.mt8163.so:system/vendor/lib/hw/gralloc.mt8163.so \
    vendor/amazon/mustang/proprietary/vendor/lib/hw/hwcomposer.mt8163.so:system/vendor/lib/hw/hwcomposer.mt8163.so \
    vendor/amazon/mustang/proprietary/vendor/lib/hw/memtrack.mt8163.so:system/vendor/lib/hw/memtrack.mt8163.so \
    vendor/amazon/mustang/proprietary/vendor/lib/hw/sensors.mt8163.so:system/vendor/lib/hw/sensors.mt8163.so \
-    vendor/amazon/mustang/proprietory/vendor/lib/drm/libdrmmtkplugin.so:system/vendor/lib/drm/libdrmmtkplugin.so \
-    vendor/amazon/mustang/proprietory/vendor/lib/drm/libdrmctaplugin.so:system/vendor/lib/drm/libdrmctaplugin.so \
+    vendor/amazon/mustang/proprietary/vendor/lib/drm/libdrmmtkplugin.so:system/vendor/lib/drm/libdrmmtkplugin.so \
+    vendor/amazon/mustang/proprietary/vendor/lib/drm/libdrmctaplugin.so:system/vendor/lib/drm/libdrmctaplugin.so \
     vendor/amazon/mustang/proprietary/usr/keylayout/mtk-kpd.kl:system/usr/keylayout/mtk-kpd.kl \
     vendor/amazon/mustang/proprietary/usr/idc/amazon_touch.idc:system/usr/idc/amazon_touch.idc \
 	vendor/amazon/mustang/proprietary/vendor/etc/audio_param/AudioParamOptions.xml:system/vendor/etc/audio_param/AudioParamOptions.xml \
